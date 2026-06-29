@@ -1,0 +1,18 @@
+#langchain imports
+langchain
+langchain-groq
+langchain-community
+
+#api import 
+fastapi[standard]
+uvicorn
+
+#tools import
+duckduckgo_search
+beautifulsoup4
+requests
+
+#database import
+sqlmodel
+pydantic-settings
+psycopg[binary]
